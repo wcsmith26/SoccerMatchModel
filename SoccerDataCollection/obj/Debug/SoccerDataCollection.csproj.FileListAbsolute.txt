@@ -1,0 +1,11 @@
+C:\Users\willa\source\repos\SoccerDataCollection\bin\Debug\SoccerDataCollection.exe.config
+C:\Users\willa\source\repos\SoccerDataCollection\bin\Debug\SoccerDataCollection.exe
+C:\Users\willa\source\repos\SoccerDataCollection\bin\Debug\SoccerDataCollection.pdb
+C:\Users\willa\source\repos\SoccerDataCollection\obj\Debug\SoccerDataCollection.UserInterface.resources
+C:\Users\willa\source\repos\SoccerDataCollection\obj\Debug\SoccerDataCollection.Properties.Resources.resources
+C:\Users\willa\source\repos\SoccerDataCollection\obj\Debug\SoccerDataCollection.csproj.GenerateResource.cache
+C:\Users\willa\source\repos\SoccerDataCollection\obj\Debug\SoccerDataCollection.csproj.CoreCompileInputs.cache
+C:\Users\willa\source\repos\SoccerDataCollection\obj\Debug\SoccerDataCollection.exe
+C:\Users\willa\source\repos\SoccerDataCollection\obj\Debug\SoccerDataCollection.pdb
+C:\Users\willa\source\repos\SoccerDataCollection\obj\Debug\SoccerDataCollection.csproj.ResolveComReference.cache
+C:\Users\willa\source\repos\SoccerDataCollection\obj\Debug\SoccerDataCollection.csproj.AssemblyReference.cache
